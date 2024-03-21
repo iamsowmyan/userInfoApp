@@ -1,0 +1,18 @@
+.tableContainer {
+  max-width: 800px;
+  margin: 0 auto;
+  border: 1px solid #c2c2c2;
+}
+
+.tableContainer .MuiTableRow-root {
+  cursor: pointer;
+}
+
+.tableContainer .MuiTableRow-root:hover {
+  background-color: #f2f2f2;
+}
+
+.tableContainer .MuiTableHead-root td {
+  font-weight: bold;
+  color: #00aeef;
+}

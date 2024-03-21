@@ -1,0 +1,21 @@
+.avatarContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  flex-direction: column;
+}
+
+.avatarName {
+  text-align: center;
+  width: 100%;
+  font-weight: bold;
+  font-size: 20px;
+  padding-top: 10px;
+  color: #00aeef;
+}
+
+.profileContainer {
+  width: 100px !important;
+  height: auto !important;
+}

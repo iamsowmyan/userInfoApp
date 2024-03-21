@@ -1,0 +1,33 @@
+.userDetailContainer {
+  padding: 20px;
+}
+
+.userDetail {
+  display: flex;
+  margin: auto;
+  gap: 20px;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+  border: 2px solid #00aeef;
+  width: 400px;
+  padding: 20px;
+  min-height: 490px;
+}
+.userDetail:hover{
+  border: 2px solid #00aeef;
+}
+
+.itemContainer {
+  display: flex;
+  flex-direction: row;
+}
+
+.labelContainer {
+  font-weight: bold;
+  padding-right: 5px;
+}
+
+.valueContainer {
+  font-size: 20px;
+}
